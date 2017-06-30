@@ -1,6 +1,7 @@
 body {
   margin: 0 auto;
-  padding: 20px;
+  padding: 1rem;
+  width: 70%;
 }
 section > div {
   width: 30%;

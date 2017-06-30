@@ -1,1 +1,1 @@
-# xtbc-frontend
+# Frontend - xtern bootcamp
